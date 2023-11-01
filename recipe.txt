@@ -3,3 +3,6 @@
 potato
 tomato
 onion
+
+ginger
+garlic
